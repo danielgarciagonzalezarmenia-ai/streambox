@@ -1,10 +1,29 @@
-{
-  "updatedAt": "2026-10-20T18:30:00Z",
-  "featuredId": null,
-  "categories": [
-    "Tendencias",
-    "Películas",
-    "Series"
-  ],
-  "items": []
+﻿{
+    "updatedAt":  "2026-10-20T23:42:46Z",
+    "featuredId":  null,
+    "categories":  [
+                       "Tendencias",
+                       "Películas",
+                       "Series"
+                   ],
+    "items":  [
+                  {
+                      "id":  "mov_80e2d3bf",
+                      "title":  "Spider-Man Un Nuevo Día",
+                      "type":  "movie",
+                      "genre":  "Acción",
+                      "year":  "2026",
+                      "duration":  "2h 25m",
+                      "rating":  "5.0",
+                      "description":  "Luchar contra el crimen a tiempo completo como Spider-Man en un mundo que no lo recuerda —y la presión de ver a sus viejos amigos seguir adelante sin él— provoca un cambio en Peter Parker que tal vez no tenga el poder de controlar. Pero esa transformación también podría ser lo único que pueda detener una nueva e impactante amenaza para la ciudad y sus seres queridos: un poderoso villano que nadie puede siquiera ver.",
+                      "posterUrl":  "https://www.themoviedb.org/t/p/w1280/tF1CrnAUIlDhFWjXpzb0rhQ9pLb.jpg",
+                      "bannerUrl":  "https://media.themoviedb.org/t/p/w1066_and_h600_face/r08LxMJCbf1SiJIWeyH9aJmdqwC.jpg",
+                      "videoUrl":  "https://cdn.savedly.net/cyrvg9sy",
+                      "categories":  [
+                                         "Tendencias",
+                                         "PelÃ­culas",
+                                         "Acción"
+                                     ]
+                  }
+              ]
 }
